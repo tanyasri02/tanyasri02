@@ -2,7 +2,7 @@
 
 ## I'm a Student, Data Structure enthusiast and learner!
 
-- 🔭 I’m currently working to improve on [Data Structure][DataStructure]!
+- 🔭 I’m currently working to improve on DATA STRUCTURE!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become a problem solver
