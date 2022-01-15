@@ -5,7 +5,7 @@
 - 🔭 I’m currently working to improve on DATA STRUCTURE!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become a problem solver
+- 🥅 2022 Goals: Become a good SDE
 - ⚡ Fun fact: I love to live
 - 👋 Mail at tanya.18bec1054@abes.ac.in
 
